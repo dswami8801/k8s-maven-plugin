@@ -1,0 +1,6 @@
+/mnt/hgfs/ubuntu16/k8s-maven-plugin/src/main/java/com/fico/ccm/k8s_maven_plugin/EscapeUtil.java
+/mnt/hgfs/ubuntu16/k8s-maven-plugin/src/main/java/com/fico/ccm/k8s_maven_plugin/DataBuilder.java
+/mnt/hgfs/ubuntu16/k8s-maven-plugin/src/main/java/com/fico/ccm/k8s_maven_plugin/ConfigMap.java
+/mnt/hgfs/ubuntu16/k8s-maven-plugin/src/main/java/com/fico/ccm/k8s_maven_plugin/K8sConfigMapMojo.java
+/mnt/hgfs/ubuntu16/k8s-maven-plugin/src/main/java/com/fico/ccm/k8s_maven_plugin/FileReader.java
+/mnt/hgfs/ubuntu16/k8s-maven-plugin/src/main/java/com/fico/ccm/k8s_maven_plugin/K8SUtil.java

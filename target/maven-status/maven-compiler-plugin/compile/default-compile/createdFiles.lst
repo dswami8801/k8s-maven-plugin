@@ -1,0 +1,6 @@
+com/fico/ccm/k8s_maven_plugin/FileReader.class
+com/fico/ccm/k8s_maven_plugin/K8sConfigMapMojo.class
+com/fico/ccm/k8s_maven_plugin/DataBuilder.class
+com/fico/ccm/k8s_maven_plugin/ConfigMap.class
+com/fico/ccm/k8s_maven_plugin/EscapeUtil.class
+com/fico/ccm/k8s_maven_plugin/K8SUtil.class

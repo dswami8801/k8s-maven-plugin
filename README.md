@@ -1,0 +1,1 @@
+Maven plugin for creating configmap from multiple .properties and .yaml files.
