@@ -1,4 +1,4 @@
-package com.fico.ccm.k8s_maven_plugin;
+package com.esphere.k8s_maven_plugin;
 
 import java.util.HashMap;
 import java.util.Map;
